@@ -4,6 +4,7 @@
 package gradle.template;
 
 public class App {
+    // Hello
     public String getGreeting() {
         return "Hello World!";
     }
